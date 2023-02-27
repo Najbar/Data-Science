@@ -1,5 +1,5 @@
-# Data Science projects
-
-a) Data mining
-b) Text mining
+# Data Science projects  
+  
+a) Data mining  
+b) Text mining  
 c) Machine learning
