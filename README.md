@@ -1,5 +1,5 @@
 # Data Science projects  
   
-a) Data mining  
-b) Text mining  
-c) Machine learning
+a) Data mining - two projects for association rule (arules package)  
+b) Text mining - fake news detection model    
+c) Machine learning - default customers detection model  
